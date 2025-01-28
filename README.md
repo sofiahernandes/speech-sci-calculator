@@ -1,5 +1,6 @@
 ## SMART SCIENTIFIC CALCULATOR APP
-## Calculator built using [Python3.6.0](https://www.python.org/downloads/release/python-360/) and the following libraries:
+## Calculator built using [Python3.6.0](https://www.python.org/downloads/release/python-360/)
+# Python libraries used:
 - Tkinter
 - SpeechRecognition
 - PyGame
