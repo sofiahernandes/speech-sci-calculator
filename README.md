@@ -26,12 +26,14 @@ py install pyaudio
 
 Then scan the QR Code acording to the instructions on the terminal
 
-<br>
+<br/>
 
-## 📩 CONNECT WITH ME!
-Linkedin: [Sofia B. Hernandes](https://www.linkedin.com/in/sofia-botechia-hernandes-4a5379349?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-Instagram: [@sofiabfit](https://www.instagram.com/sofiabfit/)  
-Email: [sofiahernandes.dev@gmail.com](mailto:sofiahernandes.dev@gmail.com)  
-X: [/sofiaahernandes](https://x.com/sofiaahernandes)  
-Pinterest: [sofiabfit](https://pin.it/5gRW2R2bW)  
-Github: [sofiahernandes](https://github.com/sofiahernandes)
+---
+
+<div align="center">
+  <h1>📩 Let's connect!</h1>
+  <a href="https://github.com/sofiahernandes"><img height="30px" src="https://skillicons.dev/icons?i=github"/></a><span> ∙ </span>
+  <a href="https://www.linkedin.com/in/sofiahernandes"><img height="30px" src="https://skillicons.dev/icons?i=linkedin"/></a><span> ∙ </span>
+  <a href="mailto:sofiahernandes.dev@gmail.com"><img height="30px" src="https://skillicons.dev/icons?i=gmail"/></a><span> ∙ </span>
+  <a href="https://www.instagram.com/sofiabotechiaa/"><img height="30px" src="https://skillicons.dev/icons?i=instagram"/></a>
+</div>
